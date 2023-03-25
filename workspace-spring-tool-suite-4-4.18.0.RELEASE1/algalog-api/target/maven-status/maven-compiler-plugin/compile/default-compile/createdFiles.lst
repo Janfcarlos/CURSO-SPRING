@@ -1,0 +1,10 @@
+com\algaworks\algalog\domain\service\CatalogoClienteService.class
+com\algaworks\algalog\domain\repository\ClienteRepository.class
+com\algaworks\algalog\api\exceptionhandler\Problema$Campo.class
+com\algaworks\algalog\domain\exception\NegocioException.class
+com\algaworks\algalog\domain\model\Cliente.class
+com\algaworks\algalog\api\controller\ClienteController.class
+com\algaworks\algalog\DataSourceAutoConfiguration.class
+com\algaworks\algalog\api\exceptionhandler\Problema.class
+com\algaworks\algalog\AlgalogApiApplication.class
+com\algaworks\algalog\api\exceptionhandler\ApiExceptionHandler.class
